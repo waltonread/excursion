@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: black;
+    font-family: Verdana, sans-serif;
+    color: white;
+    font-weight: normal;
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-weight: 300;
+    font-size: 42px;
+    padding-bottom: 25px;
+}
+
+p {
+    font-size: 21px;
+    color: gray;
+    line-height: 1.5;
+}
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+.welcome {
+    padding: 50px;
+}
+
+.welcome h1 {
+    padding-bottom: 50px;
+}
+
+video {
+    padding: 50px;
+}
+
+img {
+    padding: 30px;
+}
+
+.copyright p {
+    text-align: right;
+}
